@@ -1,4 +1,4 @@
-# 🐾 Sniff and Wag
+# 🐾 Sniff & Wag
 
 **Sniff and Wag** is a pet service platform dedicated to providing **top-quality care** for furry mates across Australia. From **vet check-ups** to **grooming, accommodation, and dog taxi services**, we make pet care **easy and stress-free**.
 
