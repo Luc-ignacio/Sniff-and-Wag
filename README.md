@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 ```sh
 # Clone the repository
 git clone git@github.com:Luc-ignacio/Sniff-and-Wag.git
-cd gear_up
+cd Sniff-and-Wag
 
 # Install dependencies
 npm install
