@@ -2,11 +2,11 @@
 
 **Sniff and Wag** is a pet service platform dedicated to providing **top-quality care** for furry mates across Australia. From **vet check-ups** to **grooming, accommodation, and dog taxi services**, we make pet care **easy and stress-free**.
 
-![Sniff   Wag](https://github.com/user-attachments/assets/6517436b-3c42-4511-b654-fb5ad47f39a6)
+![Sniff   Wag](https://github.com/user-attachments/assets/d92ff2a7-e804-4043-9b7a-3e15212cc6d9)
+
 
 ## 🌍 **Live Website:** [Gear_Up](https://gear-up-vxk4.vercel.app)
 
----
 
 ## 🚀 Features
 - **Next.js Framework** – Fast, scalable, and SEO-friendly architecture.
@@ -16,13 +16,10 @@
 - **Optimised Performance** – SSR & SSG for faster load times.
 - **Fully Responsive** – Works across all devices.
 
----
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 - **Deployment:** Vercel
-
----
 
 
 ## 📂 Project Structure
