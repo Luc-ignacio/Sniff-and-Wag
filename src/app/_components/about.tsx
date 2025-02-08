@@ -88,7 +88,7 @@ export function About() {
                 data-aos="fade-up"
                 data-aos-delay="500"
                 href="#services"
-                className="bg-[#1446A0] border-2 border-[#1446A0] text-[#EBEBD3] px-4 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2 hover:scale-105"
+                className="bg-[#1446A0] border-2 border-[#1446A0] text-[#EBEBD3] px-4 py-2 rounded-md font-semibold text-sm lg:text-base flex items-center justify-center w-fit gap-2 hover:scale-105"
               >
                 <ShoppingCart size={24} />
                 Browse Our Services
@@ -97,7 +97,7 @@ export function About() {
                 data-aos="fade-up"
                 data-aos-delay="700"
                 href="tel:+61416000000"
-                className="bg-[#EBEBD3] border-2 border-[#1446A0] text-[#1446A0] px-4 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2 hover:scale-105"
+                className="bg-[#EBEBD3] border-2 border-[#1446A0] text-[#1446A0] px-4 py-2 rounded-md font-semibold text-sm lg:text-base flex items-center justify-center w-fit gap-2 hover:scale-105"
               >
                 <Phone size={24} />
                 Call us now
