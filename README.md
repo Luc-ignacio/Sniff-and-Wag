@@ -5,7 +5,7 @@
 ![Sniff   Wag](https://github.com/user-attachments/assets/d92ff2a7-e804-4043-9b7a-3e15212cc6d9)
 
 
-## 🌍 **Live Website:** [Gear_Up](https://gear-up-vxk4.vercel.app)
+## 🌍 **Live Website:** [Sniff & Wag](https://sniff-and-wag.vercel.app)
 
 
 ## 🚀 Features
